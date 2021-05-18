@@ -1,2 +1,2 @@
 # scaffold
-Pyhton project scaffold (for education)
+Python project scaffold (for education)
